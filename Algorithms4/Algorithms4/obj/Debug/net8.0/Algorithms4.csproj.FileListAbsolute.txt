@@ -1,0 +1,14 @@
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\bin\Debug\net8.0\Algorithms4.exe
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\bin\Debug\net8.0\Algorithms4.deps.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\bin\Debug\net8.0\Algorithms4.runtimeconfig.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\bin\Debug\net8.0\Algorithms4.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\bin\Debug\net8.0\Algorithms4.pdb
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\Algorithms4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\Algorithms4.AssemblyInfoInputs.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\Algorithms4.AssemblyInfo.cs
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\Algorithms4.csproj.CoreCompileInputs.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\Algorithms4.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\refint\Algorithms4.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\Algorithms4.pdb
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\Algorithms4.genruntimeconfig.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms4\Algorithms4\obj\Debug\net8.0\ref\Algorithms4.dll

@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Lvl1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Lvl1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lvl1.dll": {}
+        }
+      },
+      "Lvl2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Lvl2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lvl2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lvl1/1.0.0": {
+      "type": "project",
+      "path": "../Algorithms1/Lvl1.csproj",
+      "msbuildProject": "../Algorithms1/Lvl1.csproj"
+    },
+    "Lvl2/1.0.0": {
+      "type": "project",
+      "path": "../Lvl2/Lvl2.csproj",
+      "msbuildProject": "../Lvl2/Lvl2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Lvl1 >= 1.0.0",
+      "Lvl2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Maksym\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms1\\Lvl3\\Lvl3.csproj",
+      "projectName": "Lvl3",
+      "projectPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms1\\Lvl3\\Lvl3.csproj",
+      "packagesPath": "C:\\Users\\Maksym\\.nuget\\packages\\",
+      "outputPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms1\\Lvl3\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Maksym\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms1\\Algorithms1\\Lvl1.csproj": {
+              "projectPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms1\\Algorithms1\\Lvl1.csproj"
+            },
+            "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms1\\Lvl2\\Lvl2.csproj": {
+              "projectPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms1\\Lvl2\\Lvl2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.exe
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.deps.json
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.runtimeconfig.json
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.dll
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.pdb
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.AssemblyInfoInputs.cache
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.AssemblyInfo.cs
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.dll
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\refint\Algorithms2.dll
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.pdb
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.genruntimeconfig.cache
+C:\Users\Maksym\source\repos\Algorithms2\Algorithms2\obj\Debug\net8.0\ref\Algorithms2.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.AssemblyInfoInputs.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.AssemblyInfo.cs
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.csproj.CoreCompileInputs.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.sourcelink.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\refint\Algorithms2.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.pdb
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.exe
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.deps.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.runtimeconfig.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\bin\Debug\net8.0\Algorithms2.pdb
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\Algorithms2.genruntimeconfig.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms2\Algorithms2\obj\Debug\net8.0\ref\Algorithms2.dll

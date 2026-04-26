@@ -1,0 +1,30 @@
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.deps.json
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.dll
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.pdb
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.AssemblyInfoInputs.cache
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.AssemblyInfo.cs
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.dll
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\refint\Lvl1.dll
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.pdb
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\ref\Lvl1.dll
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.exe
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.runtimeconfig.json
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.genruntimeconfig.cache
+C:\Users\Maksym\source\repos\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.sourcelink.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.exe
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.deps.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.runtimeconfig.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\bin\Debug\net8.0\Lvl1.pdb
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.AssemblyInfoInputs.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.AssemblyInfo.cs
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.csproj.CoreCompileInputs.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.sourcelink.json
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\refint\Lvl1.dll
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.pdb
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\Lvl1.genruntimeconfig.cache
+D:\Unik\2 course\2 semester\Algorithms\Algorithms1\Algorithms1\obj\Debug\net8.0\ref\Lvl1.dll

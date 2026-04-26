@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms2\\algorithms2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|solutionrelative:algorithms2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms2\\algorithms2\\myhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|solutionrelative:algorithms2\\myhashtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms2\\algorithms2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|solutionrelative:algorithms2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms2\\algorithms2\\ihasarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|solutionrelative:algorithms2\\ihasarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms2\\algorithms2\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|solutionrelative:algorithms2\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms2\\algorithms2\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EA1741-9279-4746-9D4B-B68E255F737E}|Algorithms2\\Algorithms2.csproj|solutionrelative:algorithms2\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHasArea.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\IHasArea.cs",
+              "RelativeDocumentMoniker": "Algorithms2\\IHasArea.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\IHasArea.cs",
+              "RelativeToolTip": "Algorithms2\\IHasArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:24:56.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\Triangle.cs",
+              "RelativeDocumentMoniker": "Algorithms2\\Triangle.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\Triangle.cs",
+              "RelativeToolTip": "Algorithms2\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:20:49.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\Node.cs",
+              "RelativeDocumentMoniker": "Algorithms2\\Node.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\Node.cs",
+              "RelativeToolTip": "Algorithms2\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:31:12.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyLinkedList.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\MyLinkedList.cs",
+              "RelativeDocumentMoniker": "Algorithms2\\MyLinkedList.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\MyLinkedList.cs",
+              "RelativeToolTip": "Algorithms2\\MyLinkedList.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T16:24:12.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyHashTable.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\MyHashTable.cs",
+              "RelativeDocumentMoniker": "Algorithms2\\MyHashTable.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\MyHashTable.cs",
+              "RelativeToolTip": "Algorithms2\\MyHashTable.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T06:33:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\Program.cs",
+              "RelativeDocumentMoniker": "Algorithms2\\Program.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms2\\Algorithms2\\Program.cs",
+              "RelativeToolTip": "Algorithms2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T15:21:53.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
