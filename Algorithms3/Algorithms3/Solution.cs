@@ -10,7 +10,7 @@ namespace Algorithms3
     {
         static void Main(string[] args)
         {
-            BinaryTree<Student> tree = new BinaryTree<Student>();
+            BinarySearchTree<Student> tree = new BinarySearchTree<Student>();
             Student student1 = new Student("Alice", "Johnson", 1, 1234, "Kyiv");
             tree.Add(student1.StudentId, student1);
             Student student2 = new Student("Bob", "Smith", 2, 5678, "New York");
@@ -26,8 +26,8 @@ namespace Algorithms3
             Student student7 = new Student("George", "St-Pierre", 3, 3553, "Toronto");
             tree.Add(student7.StudentId, student7);
             tree.PrintTable();
-            tree.FindByVariant().ForEach(Console.WriteLine);
-            tree.RemoveByVariant();
+            tree.FindByVariant("Kyiv").ForEach(Console.WriteLine);
+            tree.RemoveByVariant("New York");
             tree.PrintTable();
         }
     }

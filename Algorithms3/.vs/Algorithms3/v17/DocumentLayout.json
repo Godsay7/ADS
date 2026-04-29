@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\",
+  "WorkspaceRootPath": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms3\\algorithms3\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|solutionrelative:algorithms3\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms3\\algorithms3\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms3\\algorithms3\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|solutionrelative:algorithms3\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms3\\algorithms3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms3\\algorithms3\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|solutionrelative:algorithms3\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms3\\algorithms3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E377F34A-182C-4A93-967E-4FBBF1C296F2}|Algorithms3\\Algorithms3.csproj|solutionrelative:algorithms3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,22 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\Student.cs",
-              "RelativeDocumentMoniker": "Algorithms3\\Student.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\Student.cs",
-              "RelativeToolTip": "Algorithms3\\Student.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T13:39:28.22Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -83,27 +69,52 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Student.cs",
+              "RelativeDocumentMoniker": "Algorithms3\\Student.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Student.cs",
+              "RelativeToolTip": "Algorithms3\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:39:28.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BinaryTree.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\BinaryTree.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\BinaryTree.cs",
               "RelativeDocumentMoniker": "Algorithms3\\BinaryTree.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\BinaryTree.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\BinaryTree.cs",
               "RelativeToolTip": "Algorithms3\\BinaryTree.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAwJIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T13:52:09.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Solution.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\Solution.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Solution.cs",
               "RelativeDocumentMoniker": "Algorithms3\\Solution.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\Solution.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Solution.cs",
               "RelativeToolTip": "Algorithms3\\Solution.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T12:56:40.091Z",
               "EditorCaption": ""

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\Algorithms3.csproj",
+      "projectUniqueName": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Algorithms3.csproj",
       "projectName": "Algorithms3",
-      "projectPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\Algorithms3.csproj",
+      "projectPath": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Algorithms3.csproj",
       "packagesPath": "C:\\Users\\Maksym\\.nuget\\packages\\",
-      "outputPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms3\\Algorithms3\\obj\\",
+      "outputPath": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
