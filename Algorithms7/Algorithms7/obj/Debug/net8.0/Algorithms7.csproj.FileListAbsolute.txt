@@ -1,0 +1,15 @@
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.AssemblyInfoInputs.cache
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.AssemblyInfo.cs
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.csproj.CoreCompileInputs.cache
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.sourcelink.json
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\bin\Debug\net8.0\Algorithms7.exe
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\bin\Debug\net8.0\Algorithms7.deps.json
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\bin\Debug\net8.0\Algorithms7.runtimeconfig.json
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\bin\Debug\net8.0\Algorithms7.dll
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\bin\Debug\net8.0\Algorithms7.pdb
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.dll
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\refint\Algorithms7.dll
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.pdb
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\Algorithms7.genruntimeconfig.cache
+D:\Unik\2 course\2 semester\ADS\Algorithms7\Algorithms7\obj\Debug\net8.0\ref\Algorithms7.dll
