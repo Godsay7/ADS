@@ -1,0 +1,15 @@
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\bin\Debug\net8.0\Algorithms8.exe
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\bin\Debug\net8.0\Algorithms8.deps.json
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\bin\Debug\net8.0\Algorithms8.runtimeconfig.json
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\bin\Debug\net8.0\Algorithms8.dll
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\bin\Debug\net8.0\Algorithms8.pdb
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.AssemblyInfoInputs.cache
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.AssemblyInfo.cs
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.csproj.CoreCompileInputs.cache
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.sourcelink.json
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.dll
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\refint\Algorithms8.dll
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.pdb
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\Algorithms8.genruntimeconfig.cache
+D:\Unik\2 course\2 semester\ADS\Algorithms8\Algorithms8\obj\Debug\net8.0\ref\Algorithms8.dll

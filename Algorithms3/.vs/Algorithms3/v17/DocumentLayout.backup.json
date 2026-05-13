@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,22 +88,9 @@
               "RelativeDocumentMoniker": "Algorithms3\\Student.cs",
               "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Student.cs",
               "RelativeToolTip": "Algorithms3\\Student.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T13:39:28.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BinaryTree.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\BinaryTree.cs",
-              "RelativeDocumentMoniker": "Algorithms3\\BinaryTree.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\BinaryTree.cs",
-              "RelativeToolTip": "Algorithms3\\BinaryTree.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAswFAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T13:52:09.083Z",
               "EditorCaption": ""
             },
             {
@@ -114,9 +101,22 @@
               "RelativeDocumentMoniker": "Algorithms3\\Solution.cs",
               "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\Solution.cs",
               "RelativeToolTip": "Algorithms3\\Solution.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T12:56:40.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "Algorithms3\\BinaryTree.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms3\\Algorithms3\\BinaryTree.cs",
+              "RelativeToolTip": "Algorithms3\\BinaryTree.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:52:09.083Z",
               "EditorCaption": ""
             }
           ]

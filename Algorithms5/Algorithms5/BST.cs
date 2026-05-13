@@ -29,8 +29,6 @@ namespace Algorithms5
                 node.Size = 1 + GetSize(node.Left) + GetSize(node.Right);
         }
 
-        //LVL2
-
         private Node RotateRight(Node p)
         {
             Node q = p.Left ?? throw new InvalidOperationException();
@@ -62,7 +60,6 @@ namespace Algorithms5
         {
             if (node == null) return new Node(item);
 
-            //(Size+1)
             if (_rng.Next(0, node.Size + 1) == 0)
             {
                 return InsertAtRoot(node, item);
@@ -110,7 +107,7 @@ namespace Algorithms5
 
         public void PrintTree()
         {
-            Console.WriteLine("\n--- Візуалізація BST (повернута на 90°) ---");
+            Console.WriteLine("\n--- BST Visualisation ---");
             PrintRecursive(_root, 0);
         }
 

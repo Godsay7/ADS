@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms5\\algorithms5\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|solutionrelative:algorithms5\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms5\\algorithms5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|solutionrelative:algorithms5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms5\\algorithms5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|solutionrelative:algorithms5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms5\\algorithms5\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEAB76A-2428-49E1-AE67-B80348214417}|Algorithms5\\Algorithms5.csproj|solutionrelative:algorithms5\\bst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,39 +82,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms5\\Algorithms5\\Program.cs",
               "RelativeDocumentMoniker": "Algorithms5\\Program.cs",
               "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms5\\Algorithms5\\Program.cs",
               "RelativeToolTip": "Algorithms5\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBwAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T09:38:58.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms5\\Algorithms5\\Student.cs",
               "RelativeDocumentMoniker": "Algorithms5\\Student.cs",
               "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms5\\Algorithms5\\Student.cs",
               "RelativeToolTip": "Algorithms5\\Student.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T15:10:52.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BST.cs",
               "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms5\\Algorithms5\\BST.cs",
               "RelativeDocumentMoniker": "Algorithms5\\BST.cs",
               "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms5\\Algorithms5\\BST.cs",
               "RelativeToolTip": "Algorithms5\\BST.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T07:34:27.229Z",
               "EditorCaption": ""

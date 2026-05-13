@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\",
+  "WorkspaceRootPath": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms4\\algorithms4\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms4\\algorithms4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms4\\algorithms4\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms4\\algorithms4\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms4\\algorithms4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms4\\algorithms4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms4\\algorithms4\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms4\\algorithms4\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms4\\algorithms4\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms4\\algorithms4\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\algorithms\\algorithms4\\algorithms4\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms4\\algorithms4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms4\\algorithms4\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB57A3B-E253-4689-BD99-3257364E5510}|Algorithms4\\Algorithms4.csproj|solutionrelative:algorithms4\\print.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,87 +94,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\LinkedList.cs",
-              "RelativeDocumentMoniker": "Algorithms4\\LinkedList.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\LinkedList.cs",
-              "RelativeToolTip": "Algorithms4\\LinkedList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T18:52:00.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Node.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Node.cs",
-              "RelativeDocumentMoniker": "Algorithms4\\Node.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Node.cs",
-              "RelativeToolTip": "Algorithms4\\Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T18:51:48.377Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\LinkedList.cs",
+              "RelativeDocumentMoniker": "Algorithms4\\LinkedList.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\LinkedList.cs",
+              "RelativeToolTip": "Algorithms4\\LinkedList.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswFsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:52:00.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MergeSort.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\MergeSort.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\MergeSort.cs",
               "RelativeDocumentMoniker": "Algorithms4\\MergeSort.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\MergeSort.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\MergeSort.cs",
               "RelativeToolTip": "Algorithms4\\MergeSort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T16:10:59.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Print.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Print.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Print.cs",
               "RelativeDocumentMoniker": "Algorithms4\\Print.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Print.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Print.cs",
               "RelativeToolTip": "Algorithms4\\Print.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T16:06:59.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ShellSort.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\ShellSort.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\ShellSort.cs",
               "RelativeDocumentMoniker": "Algorithms4\\ShellSort.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\ShellSort.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\ShellSort.cs",
               "RelativeToolTip": "Algorithms4\\ShellSort.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T16:00:59.507Z"
+              "WhenOpened": "2026-04-25T16:00:59.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Student.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Student.cs",
               "RelativeDocumentMoniker": "Algorithms4\\Student.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Student.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Student.cs",
               "RelativeToolTip": "Algorithms4\\Student.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T15:56:26.761Z"
+              "WhenOpened": "2026-04-25T15:56:26.761Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Program.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Program.cs",
               "RelativeDocumentMoniker": "Algorithms4\\Program.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Program.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Program.cs",
               "RelativeToolTip": "Algorithms4\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T14:55:51.085Z",
               "EditorCaption": ""

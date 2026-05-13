@@ -30,7 +30,14 @@ namespace Algorithms5
             }
             Console.WriteLine($"There are {counter} students in 3rd course, who aren't on a budget.");
 
+            RandomizedBST<Student> bst = new RandomizedBST<Student>();
+            foreach (var student in students)
+            {
+                bst.Add(student);
+            }
+            bst.PrintTree();
 
+            Console.WriteLine(bst.Find("Wilson"));
         }
     }
 }

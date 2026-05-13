@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Algorithms4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+938bf2677fc3e0009b25a749d9974347db9bcfb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Algorithms4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Algorithms4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

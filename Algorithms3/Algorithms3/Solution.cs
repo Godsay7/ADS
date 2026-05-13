@@ -27,7 +27,7 @@ namespace Algorithms3
             tree.Add(student7.StudentId, student7);
             tree.PrintTable();
             tree.FindByVariant("Kyiv").ForEach(Console.WriteLine);
-            tree.RemoveByVariant("New York");
+            tree.RemoveByVariant("Kyiv");
             tree.PrintTable();
         }
     }

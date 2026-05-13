@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Algorithms4.csproj",
+      "projectUniqueName": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Algorithms4.csproj",
       "projectName": "Algorithms4",
-      "projectPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\Algorithms4.csproj",
+      "projectPath": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\Algorithms4.csproj",
       "packagesPath": "C:\\Users\\Maksym\\.nuget\\packages\\",
-      "outputPath": "D:\\Unik\\2 course\\2 semester\\Algorithms\\Algorithms4\\Algorithms4\\obj\\",
+      "outputPath": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms4\\Algorithms4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
