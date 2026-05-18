@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8EC95C3F-68D5-4372-8516-C87313CFBA31}|Lvl3\\Lvl3.csproj|solutionrelative:lvl3\\solution3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AD0CD093-E8B2-4DAB-B31C-36F43E679746}|Algorithms8\\Lvl1.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms8\\algorithms8\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0CD093-E8B2-4DAB-B31C-36F43E679746}|Algorithms8\\Lvl1.csproj|solutionrelative:algorithms8\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5225D97D-A24F-4023-8278-9D79A0A2CB3A}|Lvl2\\Lvl2.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithms8\\lvl2\\solution2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5225D97D-A24F-4023-8278-9D79A0A2CB3A}|Lvl2\\Lvl2.csproj|solutionrelative:lvl2\\solution2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,28 +82,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Algorithms8\\Solution.cs",
+              "RelativeDocumentMoniker": "Algorithms8\\Solution.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Algorithms8\\Solution.cs",
+              "RelativeToolTip": "Algorithms8\\Solution.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:59:36.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solution2.cs",
+              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Lvl2\\Solution2.cs",
+              "RelativeDocumentMoniker": "Lvl2\\Solution2.cs",
+              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Lvl2\\Solution2.cs",
+              "RelativeToolTip": "Lvl2\\Solution2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T08:44:59.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution3.cs",
               "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Lvl3\\Solution3.cs",
               "RelativeDocumentMoniker": "Lvl3\\Solution3.cs",
               "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Lvl3\\Solution3.cs",
               "RelativeToolTip": "Lvl3\\Solution3.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T09:12:53.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Solution2.cs",
-              "DocumentMoniker": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Lvl2\\Solution2.cs",
-              "RelativeDocumentMoniker": "Lvl2\\Solution2.cs",
-              "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\Algorithms8\\Lvl2\\Solution2.cs",
-              "RelativeToolTip": "Lvl2\\Solution2.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T08:44:59.528Z",
               "EditorCaption": ""
             }
           ]
