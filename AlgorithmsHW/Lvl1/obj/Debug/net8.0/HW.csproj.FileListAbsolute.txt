@@ -1,0 +1,15 @@
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\bin\Debug\net8.0\HW.exe
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\bin\Debug\net8.0\HW.deps.json
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\bin\Debug\net8.0\HW.runtimeconfig.json
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\bin\Debug\net8.0\HW.dll
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\bin\Debug\net8.0\HW.pdb
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.AssemblyInfoInputs.cache
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.AssemblyInfo.cs
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.csproj.CoreCompileInputs.cache
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.sourcelink.json
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.dll
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\refint\HW.dll
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.pdb
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\HW.genruntimeconfig.cache
+D:\Unik\2 course\2 semester\ADS\AlgorithmsHW\Lvl1\obj\Debug\net8.0\ref\HW.dll
