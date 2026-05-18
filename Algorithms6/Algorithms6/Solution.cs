@@ -11,7 +11,7 @@ namespace Algorithms6
     {
         public static void Main(string[] args)
         {
-            CheckOut();
+            //CheckOut();
 
             int[] arrS1 = RandArrN(1000);
             int[] arrM1 = RandArrN(10000);
@@ -88,7 +88,7 @@ namespace Algorithms6
             int[] arr = new int[n];
             for (int i = 0; i < n; i++)
             {
-                arr[i] = Random.Shared.Next(1, 101);
+                arr[i] = Random.Shared.Next(1, 1000000);
             }
             return arr;
         }

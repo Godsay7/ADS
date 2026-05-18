@@ -23,6 +23,9 @@ namespace Algorithms6
         }
         private static int Partition(int[] arr, int low, int high)
         {
+            int mid = low + (high - low) / 2;
+            Swap(arr, mid, high);
+
             int pivot = arr[high];
             int i = low - 1;
             for (int j = low; j < high; j++)
