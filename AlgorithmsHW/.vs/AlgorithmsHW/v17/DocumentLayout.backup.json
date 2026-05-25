@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Unik\\2 course\\2 semester\\ADS\\AlgorithmsHW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unik\\2 course\\2 semester\\ADS\\AlgorithmsHW\\Lvl1\\Solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lvl1\\Solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25607077-B082-45B6-BDE3-90BDB9B64B83}|Lvl1\\HW.csproj|d:\\unik\\2 course\\2 semester\\ads\\algorithmshw\\lvl1\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25607077-B082-45B6-BDE3-90BDB9B64B83}|Lvl1\\HW.csproj|solutionrelative:lvl1\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,8 +80,10 @@
               "RelativeDocumentMoniker": "Lvl1\\Solution.cs",
               "ToolTip": "D:\\Unik\\2 course\\2 semester\\ADS\\AlgorithmsHW\\Lvl1\\Solution.cs",
               "RelativeToolTip": "Lvl1\\Solution.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwJ8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T14:15:35.43Z"
+              "WhenOpened": "2026-05-18T14:15:35.43Z",
+              "EditorCaption": ""
             }
           ]
         }

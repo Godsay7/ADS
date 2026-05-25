@@ -55,7 +55,7 @@ namespace MathMethodsVariant1
             {
                 double maxA = 0.0;
                 int imax = k;
-                for (int i = k; i < n; i++) // найбільший елемент 
+                for (int i = k; i < n; i++) 
                 {
                     double absA = Math.Abs(LU[i, k]);
                     if (absA > maxA)
@@ -68,7 +68,6 @@ namespace MathMethodsVariant1
                 if (maxA < 1e-10)
                     throw new Exception("Матриця системи вироджена (або близька до виродженої).");
 
-                // Перестановка рядків, якщо найбільший елемент не на діагоналі
                 if (imax != k)
                 {
                     int tempP = P[k];
@@ -83,7 +82,6 @@ namespace MathMethodsVariant1
                     }
                 }
 
-                // Обчислення матриць L та U (зберігаються в одній матриці LU)
                 for (int i = k + 1; i < n; i++)
                 {
                     LU[i, k] /= LU[k, k];
@@ -94,7 +92,6 @@ namespace MathMethodsVariant1
                 }
             }
 
-            // Етап 2: Розв'язання Ly = Pb (пряма підстановка)
             double[] x = new double[n];
             for (int i = 0; i < n; i++)
             {
@@ -105,7 +102,6 @@ namespace MathMethodsVariant1
                 }
             }
 
-            // Етап 3: Розв'язання Ux = y (зворотна підстановка)
             for (int i = n - 1; i >= 0; i--)
             {
                 for (int j = i + 1; j < n; j++)
@@ -147,19 +143,15 @@ namespace MathMethodsVariant1
 
             for (int i = 0; i < steps; i++)
             {
-                // Крок 1: k1 = h * F(x_n, Y_n)
                 double[] k1 = F(currentX, u);
                 for (int j = 0; j < 4; j++) k1[j] *= h;
 
-                // Проміжний стан Y_n + k1
                 double[] u_temp = new double[4];
                 for (int j = 0; j < 4; j++) u_temp[j] = u[j] + k1[j];
 
-                // Крок 2: k2 = h * F(x_n + h, Y_n + k1)
                 double[] k2 = F(currentX + h, u_temp);
                 for (int j = 0; j < 4; j++) k2[j] *= h;
 
-                // Фінальний підрахунок: Y_n+1 = Y_n + 0.5 * (k1 + k2)
                 for (int j = 0; j < 4; j++)
                 {
                     u[j] = u[j] + 0.5 * (k1[j] + k2[j]);
